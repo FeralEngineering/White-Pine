@@ -2,7 +2,7 @@
 
 *An intentionally impractical device for tracking white pine sightings and cultivating attentiveness to the natural world.*
 
-![White Pine Prototype](images/white-pine-01.heic)
+![White Pine Prototype](images/white-pine-01.jpg)
 
 ## Design Philosophy
 
