@@ -34,8 +34,6 @@ The hardware exists in service of the idea, not the other way around.
 
 ## Prototype
 
-![White Pine Side](images/white-pine-02.jpg)
-
 ![White Pine Display](images/white-pine-03.jpg)
 
 ![White Bottom](images/white-pine-04.jpg)
