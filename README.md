@@ -120,6 +120,14 @@ The goal was to create a small object that encourages its user to look up.
 
 ---
 
+## Repository Contents
+
+- [Hardware](HARDWARE.md)
+- [Firmware](firmware/white-pine-v1.ino)
+- [Build Notes](BUILD_NOTES.md)
+
+---
+
 ## License
 
 MIT
