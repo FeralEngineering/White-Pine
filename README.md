@@ -2,6 +2,8 @@
 
 *An intentionally impractical device for tracking white pine sightings and cultivating attentiveness to the natural world.*
 
+![White Pine Prototype](images/white-pine-01.jpg)
+
 ## Design Philosophy
 
 Most modern technology is designed to keep us looking at it.
