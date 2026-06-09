@@ -1,4 +1,4 @@
-**# Build Notes
+# Build Notes
 
 ## Prototype Notes
 
