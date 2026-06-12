@@ -21,6 +21,16 @@ A long press wakes the display and shows the stored totals.
 
 ---
 
+## Prototype
+
+![White Pine Display](images/white-pine-03.jpg)
+
+![White Bottom](images/white-pine-04.jpg)
+
+![White Pine In Hand](images/white-pine-05.jpg)
+
+---
+
 ## Why
 
 White Pine started as a simple species-specific counter, but the project became more interesting once the design was narrowed down.
@@ -30,16 +40,6 @@ The device does not identify trees or automate observation. It only records sigh
 Because of that, several design choices stayed intentionally simple. The display remains off during normal counting, no timestamps or GPS data are stored, and the device keeps only the total counts.
 
 The goal is to support observation without adding unnecessary features or pulling attention away from the environment.
-
----
-
-## Prototype
-
-![White Pine Display](images/white-pine-03.jpg)
-
-![White Bottom](images/white-pine-04.jpg)
-
-![White Pine In Hand](images/white-pine-05.jpg)
 
 ---
 
