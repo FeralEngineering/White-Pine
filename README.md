@@ -119,4 +119,6 @@ MIT
 
 Built under Feral Engineering.
 
-![Feral Engineering Mark](images/feral-mark.png)
+<p align="center">
+  <img src="images/feral-mark.png" width="222">
+</p>
