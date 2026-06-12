@@ -114,3 +114,9 @@ The device is designed for repeated field use with minimal interaction.
 ## License
 
 MIT
+
+---
+
+Built under Feral Engineering.
+
+![Feral Engineering Mark](images/feral-mark.png)
