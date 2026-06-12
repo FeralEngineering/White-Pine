@@ -25,11 +25,13 @@ A long press wakes the display and shows the stored totals.
 
 ## Prototype
 
-<p align="center">
-  <img src="images/white-pine-03.jpg" width="300">
-  <img src="images/white-pine-04.jpg" width="300">
-  <img src="images/white-pine-05.jpg" width="300">
-</p>
+<table align="center">
+<tr>
+<td><img src="images/white-pine-03.jpg" width="250"></td>
+<td><img src="images/white-pine-04.jpg" width="250"></td>
+<td><img src="images/white-pine-05.jpg" width="250"></td>
+</tr>
+</table>
 
 ---
 
