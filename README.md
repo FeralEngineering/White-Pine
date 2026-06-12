@@ -2,7 +2,9 @@
 
 A handheld counter for tracking sightings of Eastern White Pine (*Pinus strobus*).
 
-![White Pine Prototype](images/white-pine-01.jpg)
+<p align="center">
+  <img src="images/white-pine-01.jpg" width="700">
+</p>
 
 ## Overview
 
@@ -23,11 +25,11 @@ A long press wakes the display and shows the stored totals.
 
 ## Prototype
 
-![White Pine Display](images/white-pine-03.jpg)
-
-![White Bottom](images/white-pine-04.jpg)
-
-![White Pine In Hand](images/white-pine-05.jpg)
+<p align="center">
+  <img src="images/white-pine-03.jpg" width="300">
+  <img src="images/white-pine-04.jpg" width="300">
+  <img src="images/white-pine-05.jpg" width="300">
+</p>
 
 ---
 
