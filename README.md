@@ -1,5 +1,9 @@
 # White Pine
 
+![License](https://img.shields.io/badge/license-MIT-black)
+
+![Status](https://img.shields.io/badge/status-active-green)
+
 A handheld counter for tracking sightings of Eastern White Pine (*Pinus strobus*).
 
 <p align="center">
