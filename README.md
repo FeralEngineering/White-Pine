@@ -105,9 +105,9 @@ The device is designed for repeated field use with minimal interaction.
 
 ## Repository Contents
 
-- [Hardware](HARDWARE.md)
-- [Wiring](WIRING.md)
-- [Firmware](firmware/white-pine-v1.ino)
+- [Hardware](docs/HARDWARE.md)
+- [Wiring](docs/WIRING.md)
+- [Firmware](docs/firmware/white-pine-v1.ino)
 
 ---
 
