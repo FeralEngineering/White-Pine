@@ -14,4 +14,4 @@
 - Finalize enclosure openings before wiring components.
 - Verify button wiring before closing the enclosure.
 - Leave more room for wiring than seems necessary.
-- Consider a more integrated charging/power solution in future revisions.**
+- Consider a more integrated charging/power solution in future revisions.
