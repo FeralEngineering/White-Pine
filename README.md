@@ -117,8 +117,8 @@ MIT
 
 ---
 
-Built under Feral Engineering.
-
 <p align="center">
+  Built under Feral Engineering.
+  <br><br>
   <img src="images/feral-mark.png" width="222">
 </p>
