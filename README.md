@@ -4,6 +4,8 @@
 
 ![Status](https://img.shields.io/badge/status-active-green)
 
+![Platform](https://img.shields.io/badge/platform-ESP8266-blue)
+
 A handheld counter for tracking sightings of Eastern White Pine (*Pinus strobus*).
 
 <p align="center">
